@@ -1,0 +1,33 @@
+---
+title: "Our Mission"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+## Forest Rights and Local Planning
+
+We conduct extensive stakeholder meetings to support forest governance, strengthen Gram Sabha institutions, and prepare 10-year CFR micro-plans.
+
+<img src="cfr stakeholder meeting.JPG" width="500">
+
+---
+
+## Women's Participation in Planning and Governance
+
+We foster discussion and leadership among Adivasi women around farming, decision-making, and local self-governance.
+
+<img src="women discission group.jpg" width="500">
+
+---
+
+## Sustainable Livelihoods and Agro-Ecology
+
+We promote value-added, sustainable agriculture rooted in traditional practices and biodiversity.
+
+<img src="man holding turmeric.jpg" width="500">
+
+---
+
+🌱 *Rights. Dignity. Sustainability. From the valleys of Satpuda.*

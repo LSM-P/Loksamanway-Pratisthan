@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Loksamanway Pratishthan"
+  site-url: "/"
+  navbar:
+    logo: logo.jpg
+    right:
+      - href: index.qmd
+        text: Home
+      - href: mission.qmd
+        text: Our Mission
+      - href: history.qmd
+        text: History
+      - href: work.qmd
+        text: Our Work
+      - href: people.qmd
+        text: People
+      - href: contact.qmd
+        text: Contact
+
+html-head:
+  - link:
+      rel: stylesheet
+      href: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+
+format:
+  html:
+    theme: lux
+    css: styles.css

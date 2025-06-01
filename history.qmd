@@ -1,0 +1,37 @@
+---
+title: "Our History"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+<img src="landing page image.jpg" width="500px">
+
+------------------------------------------------------------------------
+
+## From the Hills of Satpuda: Our Story
+
+Loksamanway Pratishthan was founded in **1994** by a group of young activists — including **Pratibha Shinde** and **Sanjay Mahajan** — who emerged from the student movements of the early 1990s. Inspired by both protest and possibility, they sought to build an organization rooted in **struggle** (*sangharsh*) and **constructive work** (*rachanatmak kaam*) for Adivasi communities.
+
+The organization took shape in **Taloda**, on the edge of the **Satpuda mountain range**, home to **Bhil** and **Pawra** tribes whose history stretches back thousands of years. Despite this deep connection to the land, tribal communities faced growing threats: deforestation, displacement, lack of infrastructure, and the erosion of local livelihoods.
+
+Loksamanway Pratishthan began as a response — not just to poverty, but to **disempowerment**.
+
+------------------------------------------------------------------------
+
+## A Catalyst for Tribal Rights
+
+Since the early 2000s, Loksamanway Pratishthan has played a **critical role** in advancing **forest and governance rights** across North Maharashtra.
+
+-   In **2006**, when the *Forest Rights Act* was enacted, the organization helped tribal families secure **Individual Forest Rights (IFR)** and guided Gram Sabhas through the process of claiming **Community Forest Rights (CFR)**.
+
+-   In **2014**, following Maharashtra’s notification of the **Panchayats (Extension to Scheduled Areas) Act (PESA)**, Loksamanway Pratishthan began facilitating village-level planning and building local governance capacity to implement PESA in practice.
+
+From modest beginnings, Loksamanway Pratishthan has grown into a respected grassroots institution with work spanning **health, education, agriculture, forest governance, biodiversity, and women’s empowerment**. Across **Nandurbar and Jalgaon**, its staff continues to live, speak, and work among the people — in **over 80 villages** today.
+
+Whether supporting CFR micro-plans, leading adolescent girls’ forums, or training health workers in tribal dialects, the organization has remained committed to its founding values: **dignity, rights, and self-rule**.
+
+------------------------------------------------------------------------
+
+🌱 *“In the valleys of Satpuda, we learned that true development walks with the people.”*

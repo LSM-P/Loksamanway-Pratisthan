@@ -6,12 +6,13 @@ format:
     page-layout: full
     toc: false
 ---
+<div style="color:#212529; font-weight:500">
 
 ![](english banner.jpg)
 
 ---
 
-We are a grassroots organization working since 1994 across the tribal regions of North Maharashtra, especially in Nandurbar and Jalgaon districts. Our mission is to empower Adivasi communities by strengthening their rights over natural resources — *jal, jungle, zameen* — and promoting participatory development grounded in **PESA** (Panchayats Extension to Scheduled Areas Act), **IFR** (Individual Forest Rights), and **CFR** (Community Forest Rights).
+We are a grassroots organization working since 1994 across the North Maharashtra, especially in Nandurbar and Jalgaon districts. Our mission is to empower farmers, women and Adivasi (tribal) communities by strengthening their rights over land and  natural resources — *jal, jungle, zameen* — and promoting participatory development grounded in **PESA** (Panchayats Extension to Scheduled Areas Act), **IFR** (Individual Forest Rights), and **CFR** (Community Forest Rights).
 
 We support Gram Sabhas in asserting their forest rights, develop 10-year micro-plans for CFR areas, and promote sustainable agriculture through training, input support, and cluster-building among tribal women farmers. These efforts enhance food security, improve incomes, and reduce seasonal migration.
 

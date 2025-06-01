@@ -5,7 +5,7 @@ format:
     page-layout: full
     toc: false
 ---
-
+<div style="color:#212529; font-weight:500">
 ## Forest Rights and Local Planning
 
 We conduct extensive stakeholder meetings to support forest governance, strengthen Gram Sabha institutions, and prepare 10-year CFR micro-plans.

@@ -5,7 +5,7 @@ format:
     page-layout: full
     toc: false
 ---
-<div style="color:#212529; font-weight:500">
+
 # The People Behind Loksamanway Pratishthan
 
 Our team combines decades of grassroots experience with academic training and deep commitment to Adivasi rights. From founding members to current leadership, we work closely with tribal communities to ensure that every step forward is rooted in dignity, justice, and participation.

@@ -5,7 +5,7 @@ format:
     page-layout: full
     toc: false
 ---
-<div style="color:#212529; font-weight:500">
+
 # Walking With Communities, Building With Rights
 
 Loksamanway Pratishthan’s work is rooted in the belief that Adivasi communities must be at the center of their own development. We do not just implement projects — we co-create plans with Gram Sabhas, support local leadership, and strengthen constitutional and forest-based rights through sustained village-level engagement.

@@ -24,7 +24,7 @@ In 2007, Loksamanway Pratishthan trained Adivasi adolescent girls from Nandurbar
 
 Since 2006, Loksamanway Pratishthan has supported communities in securing **Individual Forest Rights (IFR)** and **Community Forest Rights (CFR)**. After PESA rules formulation by the Maharashtra Government in 2014, we also helped implement the **PESA Act**, ensuring that village development is planned through Gram Sabha institutions.
 
-<img src="cfr%20gp%20meeting.jpg" width="600"/>
+<img src="cfr%20gp%20meeting.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 We have facilitated the formation and training of CFR committees in 32 villages across Nandurbar and Jalgaon, helping prepare 10-year CFR micro-plans, build convergence with government schemes, and promote participatory forest governance.
 
@@ -34,8 +34,8 @@ We have facilitated the formation and training of CFR committees in 32 villages 
 
 Tribal women are at the heart of our farming and planning work. We have built *Krishi Mandals* (women’s farmer groups) in over 30 villages, offering training on sustainable agriculture, farm inputs, and market readiness.
 
-<img src="women%20agro%20info%20brochure.jpg" width="500"/>
-<img src="women%20farming%201.jpg" width="500"/>
+<img src="women%20agro%20info%20brochure.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
+<img src="women%20farming%201.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 ---
 
@@ -50,13 +50,13 @@ We support:
 - Local tool banks and seed banks  
 - Collective processing of non-timber forest produce like gum and turmeric  
 
-<img src="farming%20sustainable.jpg" width="500"/>
-<img src="turmeric%20and%20gum%20farming.jpg" width="500"/>
-<img src="tilling%20farm.jpg" width="500"/>
+<img src="farming%20sustainable.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
+<img src="turmeric%20and%20gum%20farming.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
+<img src="tilling%20farm.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 In 2017, we partnered with **Jain Agro Foods** to conduct extensive **tree plantation** drives in tribal hamlets as part of our reforestation and livelihood program.
 
-<img src="tree%20plantation.jpg" width="500"/>
+<img src="tree%20plantation.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 *Tree plantation initiative in collaboration with Jain Agro Foods (2017)*
 

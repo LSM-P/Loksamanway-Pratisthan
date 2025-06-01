@@ -6,7 +6,7 @@ format:
     toc: false
 ---
 
-<img src="landing page image.jpg" width="500px">
+<img src="landing page image.jpg" style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
 
 ------------------------------------------------------------------------
 
@@ -24,9 +24,9 @@ Loksamanway Pratishthan began as a response — not just to poverty, but to **di
 
 Since the early 2000s, Loksamanway Pratishthan has played a **critical role** in advancing **forest and governance rights** across North Maharashtra.
 
--   In **2006**, when the *Forest Rights Act* was enacted, the organization helped tribal families secure **Individual Forest Rights (IFR)** and guided Gram Sabhas through the process of claiming **Community Forest Rights (CFR)**.
+- In **2006**, when the *Forest Rights Act* was enacted, the organization helped tribal families secure **Individual Forest Rights (IFR)** and guided Gram Sabhas through the process of claiming **Community Forest Rights (CFR)**.
 
--   In **2014**, following Maharashtra’s notification of the **Panchayats (Extension to Scheduled Areas) Act (PESA)**, Loksamanway Pratishthan began facilitating village-level planning and building local governance capacity to implement PESA in practice.
+- In **2014**, following Maharashtra’s notification of the **Panchayats (Extension to Scheduled Areas) Act (PESA)**, Loksamanway Pratishthan began facilitating village-level planning and building local governance capacity to implement PESA in practice.
 
 From modest beginnings, Loksamanway Pratishthan has grown into a respected grassroots institution with work spanning **health, education, agriculture, forest governance, biodiversity, and women’s empowerment**. Across **Nandurbar and Jalgaon**, its staff continues to live, speak, and work among the people — in **over 80 villages** today.
 

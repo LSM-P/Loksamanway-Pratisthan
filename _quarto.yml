@@ -20,7 +20,8 @@ website:
         text: People
       - href: contact.qmd
         text: Contact
-
+      - text: "मराठी 🌍"
+        href: https://lsm-p.github.io/Loksamanway-Pratisthan-mr/
 html-head:
   - link:
       rel: stylesheet

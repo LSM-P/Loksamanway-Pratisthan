@@ -10,7 +10,7 @@ format:
 
 We conduct extensive stakeholder meetings to support forest governance, strengthen Gram Sabha institutions, and prepare 10-year CFR micro-plans.
 
-<img src="cfr stakeholder meeting.JPG" width="500">
+<img src="cfr stakeholder meeting.JPG" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 ---
 
@@ -18,7 +18,7 @@ We conduct extensive stakeholder meetings to support forest governance, strength
 
 We foster discussion and leadership among Adivasi women around farming, decision-making, and local self-governance.
 
-<img src="women discission group.jpg" width="500">
+<img src="women discission group.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 ---
 
@@ -26,7 +26,7 @@ We foster discussion and leadership among Adivasi women around farming, decision
 
 We promote value-added, sustainable agriculture rooted in traditional practices and biodiversity.
 
-<img src="man holding turmeric.jpg" width="500">
+<img src="man holding turmeric.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 ---
 

@@ -6,7 +6,7 @@ format:
     toc: false
 ---
 <div style="color:#212529; font-weight:500">
-<img src="landing page image.jpg" style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
+<img src="nandurbar pratibha shinde meeting.jpg" style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
 
 ------------------------------------------------------------------------
 
